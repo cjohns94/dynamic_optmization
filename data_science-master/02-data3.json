@@ -1,0 +1,1 @@
+{"schema":{"fields":[{"name":"x","type":"integer"},{"name":"y","type":"integer"},{"name":"z","type":"integer"}],"pandas_version":"0.20.0"},"data":[{"x":1,"y":2,"z":3},{"x":4,"y":5,"z":6},{"x":7,"y":8,"z":9}]}
